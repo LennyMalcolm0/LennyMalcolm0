@@ -1,4 +1,4 @@
-# Hello, I'm Prosper Melariri 👋
+# Hello, I'm Prosper 👋
 A passionate JavaScript developer with a keen interest in crafting clean, efficient, and scalable code. I love the endless possibilities that come with working on the web, and I'm constantly striving to learn new technologies and techniques to stay ahead of the game.
 
 ## 🌐 Socials:
