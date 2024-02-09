@@ -1,5 +1,4 @@
-# Hello,👋 I'm Prosper
-A passionate JavaScript developer with a keen interest in crafting clean, efficient, and scalable code. I love the endless possibilities that come with working on the web, and I'm constantly striving to learn new technologies and techniques to stay ahead of the game.
+### Curiosity is my crime😉
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lenny_malcolm0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prospermelariri) 
